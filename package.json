@@ -16,7 +16,7 @@
     "dependencies": {
         "cheerio": "^1.0.0-rc.12",
         "commander": "^9.4.0",
-        "dler": "^0.2.8",
+        "dler": "^0.2.9",
         "node-fetch": "^2.6.7"
     }
 }

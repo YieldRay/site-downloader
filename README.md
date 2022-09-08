@@ -1,6 +1,6 @@
 # site-downloader
 
-a simple cli tool that used to download some simple single page web pages
+a simple cli tool that used to download some simple single page web apps
 
 # Install
 
